@@ -2,7 +2,7 @@ package com.github.characterdog.bmicalculator;
 
 public class java1 {
 
-    String s1,s2;
+    String s1,s3;
     int a;
 
     //Constructor1
