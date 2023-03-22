@@ -1,7 +1,7 @@
 package com.github.characterdog.bmicalculator;
 
 public class java1 {
-
+    
     String s1,s4;
     int a;
 
